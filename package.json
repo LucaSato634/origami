@@ -1,6 +1,6 @@
 {
   "name": "origami",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Monorepo for the primary Web Origami packages",
   "main": "src/index.js",
   "scripts": {
